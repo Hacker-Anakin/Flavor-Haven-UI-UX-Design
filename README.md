@@ -38,7 +38,7 @@ To get a local copy up and running, follow these steps:
 2. **Navigate to the project directory:**
 
     ```bash
-    cd flavour-haven
+    cd Flavour-Haven-UI-UX-Design
     ```
 
 3. **Install the dependencies:**
@@ -73,7 +73,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or feedback, please contact us at [email@example.com](mailto:email@example.com).
+For any questions or feedback, please contact us at [cakely63@gmail.com](mailto:cakely63@gmail.com).
 
 ---
 
