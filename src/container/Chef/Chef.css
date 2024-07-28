@@ -1,0 +1,40 @@
+.chef-content {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin-top: 5rem;
+}
+
+.chef-content-quote {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-end;
+}
+
+.chef-content-quote img {
+  width: 47px;
+  height: 40px;
+  margin: 0 0.5rem 0.5rem 0;
+}
+
+.chef-sign {
+  width: 100%;
+  margin-top: 3rem;
+}
+
+.chef-sign img {
+  width: 250px;
+  margin-top: 3rem;
+}
+
+@media screen and (max-width: 2000px) {
+  .chef-sign img {
+    width: 350px;
+  }
+}
+
+@media screen and (max-width: 650px) {
+  .chef-sign img {
+    width: 80%;
+  }
+}

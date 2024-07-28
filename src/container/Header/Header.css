@@ -1,0 +1,11 @@
+.header{
+    background: var(--color-black);
+}
+
+.header-h1{
+    font-family: var(--font-base);
+    color: var(--color-golden);
+    letter-spacing: 0.04em;
+    line-height: 117px;
+    font-size: 90px;
+}
