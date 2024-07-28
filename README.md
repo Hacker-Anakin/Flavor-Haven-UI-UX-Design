@@ -32,7 +32,7 @@ To get a local copy up and running, follow these steps:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/flavour-haven.git
+    git clone https://github.com/Hacker-Anakin/Flavour-Haven-UI-UX-Design.git
     ```
 
 2. **Navigate to the project directory:**
@@ -52,7 +52,7 @@ To get a local copy up and running, follow these steps:
 To start the development server, run:
 
 ```bash
-npm start
+npm run start
 ```
 
 Open [http://localhost:3000](http://localhost:3000) to view the website in your browser.
