@@ -2,6 +2,8 @@
 
 Welcome to **Flavour Haven**, an exquisite imaginary restaurant designed to tantalize your taste buds and provide an unforgettable dining experience. This repository contains the source code for the Flavour Haven website, built using React, HTML, and CSS.
 
+![alt text](https://i.imgur.com/cooni4V.png)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
