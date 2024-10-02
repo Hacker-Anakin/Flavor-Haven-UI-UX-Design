@@ -37,9 +37,9 @@
     scrollbar-width: none;  
 }
 
-.gallery-images_container::-webkit-scrollbar {
+/* .gallery-images_container::-webkit-scrollbar {
     display: none;
-}
+} */
 
 .gallery-images_card {
     position: relative;
